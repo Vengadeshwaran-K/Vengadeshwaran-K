@@ -1,70 +1,79 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>VENGADESHWARAN K</strong>
-</h1>
+<h1 align="center">👋 Hi, I'm <strong>VENGADESHWARAN K</strong></h1>
 
-<h3>
-🚀 Java Backend Developer | Spring Boot | Spring Security | REST APIs | JWT | Docker | Python | Html | CSS  
-<br/>
-💡 DSA Enthusiast | Problem Solver | Competitive Programmer
-</h3>
+<p align="center">
+  🚀 Java Backend Developer • Spring Boot • Spring Security • REST APIs • JWT • Docker  
+  <br/>
+  💡 DSA Enthusiast • Problem Solver • Competitive Programmer
+</p>
 
-<div align="left">
-  <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vengadeshwaran-K&style=flat-square&color=blue" />
+</p>
 
-  <p>
-    I’m a <strong>backend-focused developer</strong> who enjoys building 
-    <strong>scalable, secure, and performance-oriented systems</strong>.  
-    My core strength lies in <strong>Java, Spring Boot, and API design</strong>, 
-    combined with a strong foundation in  
-    <strong>Data Structures & Algorithms</strong> and 
-    <strong>problem solving</strong>.
-  </p>
+---
 
-  <p>
-    I believe in building software with <strong>strong fundamentals</strong>, 
-    clean architecture, and attention to detail. I enjoy working on 
-    <strong>business logic, authentication, database design, and performance optimization</strong>, 
-    ensuring that applications are both reliable and maintainable.
-  </p>
+### 👨‍💻 About Me
 
-  <p>
-    I actively solve problems on <strong>LeetCode</strong> and 
-    <strong>GeeksforGeeks</strong>, follow a  
-    <strong>365 Days Coding Challenge</strong>, and focus on writing 
-    <strong>clean, optimized, and interview-ready code</strong>.  
-    Problem solving helps me think clearly, handle edge cases, and design better backend systems.
-  </p>
+I am a **backend-focused Java developer** who enjoys building  
+**scalable, secure, and performance-oriented systems**.
 
-  <p>
-    My daily practice includes topics like 
-    <strong>Arrays, Strings, Hashing, Sliding Window, Two Pointers, Recursion, Backtracking, Trees, BSTs, and Dynamic Programming</strong>, 
-    with a constant focus on improving time and space complexity.
-  </p>
+My strengths lie in **Java, Spring Boot, and REST API design**, backed by a solid
+foundation in **Data Structures & Algorithms** and **problem solving**.
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:vengadeshwaran558@gmail.com">
-      <img src="https://img.shields.io/badge/📧_vengadeshwaran558@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Backend_&_DSA_Collabs-1e1e2e?style=for-the-badge" />
-  </p>
+I value **clean architecture, strong fundamentals, and maintainable code**, and
+I enjoy working close to the core of applications — business logic, security,
+database design, and performance optimization.
 
-  <p>
-    I am continuously improving my skills in 
-    <strong>Spring Security, JWT-based authentication, RESTful API design, database integration using JPA/Hibernate</strong>, 
-    and exploring <strong>system design fundamentals</strong> to prepare for real-world backend challenges.
-  </p>
+---
 
-<h3>🌐 Socials</h3>
-<p align="left">
+### 🧠 Problem Solving & DSA
+
+- Daily problem solving on **LeetCode** & **GeeksforGeeks**
+- Following a **365 Days Coding Challenge**
+- Writing **optimized, interview-ready Java solutions**
+
+**Key Topics**
+- Arrays, Strings, Hashing  
+- Sliding Window, Two Pointers  
+- Recursion & Backtracking  
+- Trees & BSTs  
+- Dynamic Programming  
+
+> Problem solving helps me think clearly, handle edge cases, and design better backend systems.
+
+---
+
+### 🏗️ Backend Development Focus
+
+- 🔐 **Spring Security & JWT Authentication**
+- 🔄 **RESTful API Design**
+- 🗄️ **JPA / Hibernate & Database Integration**
+- 🧩 **Layered Architecture & Clean Code**
+- ⚡ **Performance & Optimization**
+
+---
+
+### 📌 Currently Learning
+
+- Advanced DSA & problem-solving patterns  
+- Backend interview preparation  
+- System design fundamentals  
+- Microservices basics  
+
+---
+
+### 🤝 Let’s Connect
+
+<p>
   <a href="https://github.com/Vengadeshwaran-K">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/vengadeshwaran-k/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
   </a>
+  <a href="mailto:vengadeshwaran558@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge"/>
+  </a>
 </p>
-<br clear="all" />
