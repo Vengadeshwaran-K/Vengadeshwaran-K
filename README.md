@@ -71,6 +71,7 @@ database design, and performance optimization.
   <img alt="github contribution grid snake animation" 
        src="https://raw.githubusercontent.com/Vengadeshwaran-K/Vengadeshwaran-K/output/github-contribution-grid-snake.svg">
 </picture>
+
 ### 🤝 Let’s Connect
 
 <p>
@@ -84,4 +85,5 @@ database design, and performance optimization.
     <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge"/>
   </a>
 </p>
+
 
